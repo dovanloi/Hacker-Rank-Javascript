@@ -7,4 +7,9 @@ Giải thuật tính tổng 1 mảng:
     .length
 ```
 ## Chuỗi
-Giải thuật đếm số lượng phần tử trong chuỗi
+Giải thuật đếm số lượng phần tử trong chuỗi:
+``` 
+    const counta = (str) => str.split('')
+    .filter(c => c == 'a')
+    .length
+```
