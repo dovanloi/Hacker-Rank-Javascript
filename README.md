@@ -1,4 +1,4 @@
-
+# Giải thuật cơ bản
 ## Mảng
 Giải thuật tính tổng 1 mảng:
 
